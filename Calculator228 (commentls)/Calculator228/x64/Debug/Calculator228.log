@@ -1,0 +1,3 @@
+﻿  Calculator228.cpp
+C:\Users\Артем\source\repos\Calculator228\Calculator228\Calculator228.cpp(88): warning C4715: Calc: значение возвращается не при всех путях выполнения
+  Calculator228.vcxproj -> C:\Users\Артем\source\repos\Calculator228\x64\Debug\Calculator228.exe
